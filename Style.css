@@ -1,0 +1,26 @@
+body{
+background-color: lightgreen;
+margin: 10px 30px 10px 30px;
+border: 1px dashed #990000
+}
+.galerija img {
+padding:90px;
+width:150px;
+}
+h1{
+font-style: normal;
+font-size: big;
+text-decoration: underline;
+}
+p{
+background-color: white;
+text-decoration: underline;
+text-align: justify;
+text-indent: 40px;
+}
+p1{
+background-color: red;
+text-align: center;
+}
+a:link {background-color: green;}
+
